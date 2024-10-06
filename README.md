@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Boris 👋
+
+- 🎓 I'm a 4th year software engineering student on Faculty of Techinical Sciences in Novi Sad
+- 🛠 Interested in the fields of human computer interaction and artifical inteligence
+- 🪐Currently looking for an internship
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borismarkovsv73)
 
 <!--
 **borismarkovsv73/borismarkovsv73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

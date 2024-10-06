@@ -4,7 +4,7 @@
 - 🛠 Interested in the fields of human computer interaction and artifical inteligence
 - 🪐Currently looking for an internship
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borismarkovsv73)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borismarkovsv73&size_weight=0.5&count_weight=0.5)
 
 
 <!--

@@ -4,17 +4,7 @@
 - 🛠 Interested in the fields of human computer interaction and artifical inteligence
 - 🪐Currently looking for an internship
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=borismarkovsv73&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=borismarkovsv73&theme=tokyonight"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borismarkovsv73&theme=tokyonight" />
-</picture>
+![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=borismarkovsv73&langs_count=4&theme=tokyonight")
 
 
 <!--
